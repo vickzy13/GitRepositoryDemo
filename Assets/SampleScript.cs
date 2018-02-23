@@ -10,7 +10,7 @@ public class SampleScript : MonoBehaviour {
 	}
 	
     void MySampleFunction()
-    [
+    {
 
     }
 	
